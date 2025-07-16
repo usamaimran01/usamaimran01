@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **MERN and Blockchain**
+- 💬 Ask me about **MERN and AI**
 
 - 📫 How to reach me **usamaimran1998@yahoo.com**
 
