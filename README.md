@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Social Media Platform**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **MERN and AI**
 
