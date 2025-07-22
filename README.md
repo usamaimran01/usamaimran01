@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaimran01&label=Profile%20views&color=0e75b6&style=flat" alt="usamaimran01" /> </p>
 
-- 🔭 I’m currently working on **Social Media**
+- 🔭 I’m currently working on **AI Chatbot Development**
 
 - 🌱 I’m currently learning **Python**
 
